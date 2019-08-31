@@ -1,0 +1,6 @@
+# Ignore all hiden directories
+.*
+!/.gitignore
+
+# Ignore node_modules
+node_modules/
